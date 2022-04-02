@@ -6,3 +6,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Ramide Dantas (dono)
 * rasd (teste)
 * João Gabriel Gouveia
+* Lucas Pontes de Lucena
