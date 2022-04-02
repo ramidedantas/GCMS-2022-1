@@ -12,3 +12,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Flávio Vieira
 * Davidson Felix 😎
 * José Alfredo dos Santos Tenório
+* Izavan dos Santos Correia
