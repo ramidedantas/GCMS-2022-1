@@ -11,3 +11,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Samuel Paes
 * Flávio Vieira
 * Davidson Felix 😎
+* José Alfredo dos Santos Tenório
