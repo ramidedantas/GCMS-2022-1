@@ -14,3 +14,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * José Alfredo dos Santos Tenório
 * Izavan dos Santos Correia
 * Raphael Alcantara
+* Bruno Holder Monteiro
