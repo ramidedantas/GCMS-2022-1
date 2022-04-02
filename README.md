@@ -16,3 +16,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Raphael Alcantara
 * Bruno Holder Monteiro
 * Ana Paula Souza
+* Vinicius Benicio
