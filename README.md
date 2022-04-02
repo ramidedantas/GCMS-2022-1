@@ -15,3 +15,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Izavan dos Santos Correia
 * Raphael Alcantara
 * Bruno Holder Monteiro
+* Ana Paula Souza
