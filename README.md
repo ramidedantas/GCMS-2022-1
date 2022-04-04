@@ -18,3 +18,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Ana Paula Souza
 * Vinicius Benicio
 * Andreson Lauro Costa Ferreira
+* Laércio Rodrigues
