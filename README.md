@@ -19,3 +19,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Vinicius Benicio
 * Andreson Lauro Costa Ferreira
 * Laércio Rodrigues(@savate)
+* Irwing Joshua (@joshuairwing)
