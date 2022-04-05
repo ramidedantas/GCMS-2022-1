@@ -10,7 +10,7 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Lucas Henrique Costa de Arruda
 * Samuel Paes
 * Flávio Vieira
-* Davidson Felix 😎
+* Davidson Felix 😎(@davidsonfe)
 * José Alfredo dos Santos Tenório
 * Izavan dos Santos Correia
 * Raphael Alcantara
