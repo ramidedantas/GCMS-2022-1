@@ -20,3 +20,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Andreson Lauro Costa Ferreira
 * Laércio Rodrigues(@savate)
 * Irwing Joshua (@joshuairwing)
+* Igor Cabral
