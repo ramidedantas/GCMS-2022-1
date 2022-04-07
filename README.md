@@ -23,3 +23,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Igor Cabral
 * Willian Santos (@willjsan)
 * Miguel Angelo (@owlmilo1)
+* Welry Sanbey (@Well-Programmer)
