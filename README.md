@@ -22,3 +22,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Irwing Joshua (@joshuairwing)
 * Igor Cabral
 * Willian Santos (@willjsan)
+* Miguel Angelo (@owlmilo1)
