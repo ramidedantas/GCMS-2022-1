@@ -16,7 +16,7 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Raphael Alcantara
 * Bruno Holder Monteiro
 * Ana Paula Souza(@PeuSouza)
-* Vinicius Benicio
+* Vinicius Benicio(@Vinny-vin)
 * Andreson Lauro Costa Ferreira(@andresonalcf)
 * Laércio Rodrigues(@savate)
 * Irwing Joshua (@joshuairwing)
