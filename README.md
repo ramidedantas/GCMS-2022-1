@@ -5,7 +5,7 @@ Repositório da disciplina de GCMS do IFPE-Recife para o semestre 2022.1.
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Ramide Dantas (dono, @ramidedantas)
 * rasd (@rasd)
-* João Gabriel Gouveia
+* João Gabriel Gouveia (@gabrielgou)
 * Lucas Pontes de Lucena
 * Lucas Henrique Costa de Arruda (ruukaas)
 * Samuel Paes
