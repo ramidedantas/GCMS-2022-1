@@ -13,7 +13,7 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Davidson Felix 😎(@davidsonfe)
 * José Alfredo dos Santos Tenório (@netosantosbr)
 * Izavan dos Santos Correia (@IzavanCorreia)
-* Raphael Alcantara
+* Raphael Alcantara (@RaphaelAlcantara)
 * Bruno Holder Monteiro
 * Ana Paula Souza(@PeuSouza)
 * Vinicius Benicio(@vinny-vin)
