@@ -14,7 +14,7 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * José Alfredo dos Santos Tenório (@netosantosbr)
 * Izavan dos Santos Correia (@IzavanCorreia)
 * Raphael Alcantara (@RaphaelAlcantara)
-* Bruno Holder Monteiro
+* Bruno Holder Monteiro (@BrunoHldr )
 * Ana Paula Souza(@PeuSouza)
 * Vinicius Benicio(@vinny-vin)
 * Andreson Lauro Costa Ferreira(@andresonalcf)
