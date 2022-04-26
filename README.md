@@ -9,7 +9,7 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Lucas Pontes de Lucena
 * Lucas Henrique Costa de Arruda (ruukaas)
 * Samuel Paes
-* Flávio Vieira
+* Flávio Vieira (@flaviovieira1)
 * Davidson Felix 😎(@davidsonfe)
 * José Alfredo dos Santos Tenório (@netosantosbr)
 * Izavan dos Santos Correia (@IzavanCorreia)
