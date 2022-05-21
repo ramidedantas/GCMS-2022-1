@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("Commit de Izavan");
 		System.out.println("Commit de José Alfredo");
 		System.out.println("Commit de willian da prática 4");
+		System.out.println("Commit de Lucas Pavao");
 	}
 
 }
