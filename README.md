@@ -26,3 +26,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Welry Sanbey (@Well-Programmer)
 * Ivanildo Ribeiro(@IvanRibeiro011)
 * Jorge lucas(@@JorgeLucasIFPE)
+* Lucas Henrique Ferreira Pavão(@Lucas-Pavao)
