@@ -7,9 +7,12 @@ public class HelloWorld {
 		System.out.println("Commit BASH & ECLIPSE");
 		System.out.println("Commit from Willian");
 		System.out.println("Commit de Izavan");
-		System.out.println("Commit de JosÈ Alfredo");
-		System.out.println("Commit de willian da pr·tica 4");
-		System.out.println("ModificaÁ„o de Willian para pull request no fork do repo da turma pr·tica 4");
-	}
+		System.out.println("Commit de Jos√© Alfredo");
+		System.out.println("Commit de willian da pr√°tica 4");
+		System.out.println("Modifica√ß√£o de Willian para pull request no fork do repo da turma pr√°tica 4");
+		System.out.println("Commit Lucas Pav√£o Pratica 4");
+		System.out.println("Modifica√ß√£o de Lucas Pavao para pull request no fork do repo da turma pr√°tica 4");
 
+	}
+	
 }
