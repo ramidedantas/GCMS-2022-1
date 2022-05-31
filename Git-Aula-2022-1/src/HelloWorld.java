@@ -9,7 +9,9 @@ public class HelloWorld {
 		System.out.println("Commit de Izavan");
 		System.out.println("Commit de José Alfredo");
 		System.out.println("Commit de willian da prática 4");
-		System.out.println("Commit de Lucas Pavao");
+		System.out.println("Modificação de Willian para pull request no fork do repo da turma prática 4");
+		System.out.println("Commit Lucas Pavão Pratica 4");
+		System.out.println("Modificação de Lucas Pavao para pull request no fork do repo da turma prática 4");
 	}
-
+	
 }
