@@ -13,6 +13,7 @@ public class HelloWorld {
 		System.out.println("Commit Lucas Pavão Pratica 4");
 		System.out.println("Modificação de Lucas Pavao para pull request no fork do repo da turma prática 4");
 		System.out.println("Commit de Bruno Holder");
+		System.out.println("Teste PUsh Chave");
 	}
 	
 }
