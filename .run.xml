@@ -2,8 +2,10 @@
   <configuration default="false" name="GCMS-2022-1" type="Application" factoryName="Application">
     <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <classpathModifications>
+      <entry path="$PROJECT_DIR$" />
+    </classpathModifications>
     <module name="GCMS-2022-1" />
-    <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
