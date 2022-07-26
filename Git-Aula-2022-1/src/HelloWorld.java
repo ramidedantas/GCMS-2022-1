@@ -18,7 +18,10 @@ public class HelloWorld {
 		System.out.println("Commit de Bruno Holder");
 		System.out.println("Teste PUsh Chave");
 		System.out.println("Commit Izavan dos Santos Correia Pratica 4");
-		System.out.println("Modificação de Izavan dos Santos Correia para pull request no fork do repo da turma prática 4");
+		System.out.println(
+				"Modificação de Izavan dos Santos Correia para pull request no fork do repo da turma prática 4");
+
+		System.out.println("Modificação de Davidson Felix para pull request no fork do repo da turma prática 4");
 	}
-	
+
 }
