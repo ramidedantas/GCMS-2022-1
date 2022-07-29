@@ -24,6 +24,7 @@ public class HelloWorld {
 		System.out.println("Commit Andreson LC Ferreira Pratica 3");
 		System.out.println("Commit Lucas Renan Meira dos Santos Pratica 4");
 		System.out.println("Commit de João Gabriel Gouveia, pratica 3");
+		System.out.println("Commit de João Gabriel Gouveia, pratica 4");
 
 	}
 	
