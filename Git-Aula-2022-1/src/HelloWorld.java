@@ -25,6 +25,7 @@ public class HelloWorld {
 		System.out.println("Commit Lucas Renan Meira dos Santos Pratica 4");
 		System.out.println("Commit de João Gabriel Gouveia, pratica 3");
 		System.out.println("Commit de João Gabriel Gouveia, pratica 4");
+		System.out.println("Commit para Pull Request de Pratica 4");
 
 	}
 	
