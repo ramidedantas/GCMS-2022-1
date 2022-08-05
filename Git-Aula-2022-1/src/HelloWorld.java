@@ -16,7 +16,8 @@ public class HelloWorld {
 		System.out.println("Commit de Bruno Holder");
 		System.out.println("Teste PUsh Chave");
 		System.out.println("Commit Izavan dos Santos Correia Pratica 4");
-		System.out.println("Modificação de Izavan dos Santos Correia para pull request no fork do repo da turma prática 4");
+		System.out.println(
+				"Modificação de Izavan dos Santos Correia para pull request no fork do repo da turma prática 4");
 		System.out.println("Commit Miguel");
 		System.out.println("Modificação de Miguel pratica 4, parte 3, passo 2");
 		System.out.println("Modificação de Miguel, pull request no fork");
@@ -24,9 +25,9 @@ public class HelloWorld {
 		System.out.println("Commit Andreson LC Ferreira Pratica 3");
 		System.out.println("Commit Lucas Renan Meira dos Santos Pratica 4");
 		System.out.println("Commit de João Gabriel Gouveia, pratica 3");
+		System.out.println("Modificação de Davidson Felix para pull request no fork do repo da turma prática 4");
 		System.out.println("Commit de João Gabriel Gouveia, pratica 4");
 		System.out.println("Commit prática 4 Lucas Arruda 01/08");
-
 	}
-	
+
 }
