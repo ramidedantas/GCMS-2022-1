@@ -27,6 +27,7 @@ public class HelloWorld {
 		System.out.println("Commit de João Gabriel Gouveia, pratica 3");
 		System.out.println("Modificação de Davidson Felix para pull request no fork do repo da turma prática 4");
 		System.out.println("Commit de João Gabriel Gouveia, pratica 4");
+		System.out.println("Commit para Pull Request de Pratica 4");
 		System.out.println("Commit prática 4 Lucas Arruda 01/08");
 	}
 
