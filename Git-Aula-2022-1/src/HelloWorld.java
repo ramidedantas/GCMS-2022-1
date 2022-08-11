@@ -33,6 +33,7 @@ public class HelloWorld {
 		System.out.println("modificação de Igor Cabral para a parte 04, passo 02, da prática 03 em 10/08");
 		System.out.println("Commit identificando a PT3 - Passo 2 - Pratica 04 (José Alfredo)");
 		System.out.println("Trabalhando com Pull Requests [1] - (José Alfredo)");
+		System.out.println("modificação de Igor Cabral para a parte 03, passo 02, da prática 04 em 11/08");
 	}
 
 }
