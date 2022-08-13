@@ -16,7 +16,7 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Lucas Renan Meira dos Santos (@LUCASRENAA)
 * Raphael Alcantara (@RaphaelAlcantara)
 * Bruno Holder Monteiro (@BrunoHldr )
-* Ana Paula Souza(@PeuSouza)
+* Ana Paula Souza (@PeuSouza)
 * Vinicius Benicio(@vinny-vin)
 * Andreson Lauro Costa Ferreira(@andresonalcf)
 * Laércio Rodrigues(@savate)
