@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GCMS-2022-1.iml" filepath="$PROJECT_DIR$/GCMS-2022-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcms/gcms.iml" filepath="$PROJECT_DIR$/gcms/gcms.iml" />
     </modules>
   </component>
 </project>
