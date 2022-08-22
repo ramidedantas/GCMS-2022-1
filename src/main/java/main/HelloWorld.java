@@ -8,7 +8,9 @@ public class HelloWorld {
 		
 		System.out.println("Segundo commmit");
 		
-		System.out.println("Pull request Ivanildo Prática 4");
+		System.out.println("Pull request Ivanildo Prï¿½tica 4");
+		
+		System.out.println("MudanÃ§as Vinicius Pratica 3");
 
 	}
 
